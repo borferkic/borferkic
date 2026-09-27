@@ -1,23 +1,25 @@
 <h1 align="center">Hola, soy Boris 👾 <i>aka</i> Borizilla</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Software+QA+Engineer+%40+WTFast;Mobile+%26+Routers+Division;Gamer+%7C+Streamer+%7C+Borizilla;Creando+BT+Device+Battery+Info" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Game+Developer;Creando+mundos+y+mec%C3%A1nicas+jugables;Gamer+%7C+Borizilla" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/borferkic"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.youtube.com/@borisfernandez"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.pinterest.com/borisdk/"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
+  <a href="https://www.twitch.tv/borizillatv"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="https://www.instagram.com/borissdk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/borissdk"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🎮 Sobre mí
 
-- 🎮 **Software QA Engineer** en [WTFast](https://www.wtfast.com) — división Mobile & Routers.
-- 🔍 Me especializo en pruebas de apps móviles, routers y redes para gaming.
-- 🔋 Actualmente construyendo **BT Device Battery Info**.
-- 🦖 Fuera del trabajo: gamer y creador de contenido como **Borizilla / Boris SDK**.
+- 🕹️ **Game Developer** apasionado por crear experiencias jugables.
+- 🧩 Me encanta diseñar mecánicas, prototipar ideas y pulir cada detalle del gameplay.
+- 🦖 Gamer de corazón: también me encuentras como **Borizilla / Boris SDK**.
+- 🚀 Siempre aprendiendo y experimentando con nuevos proyectos.
 
 ## 📊 Estadísticas
 
