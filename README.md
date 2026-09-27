@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Boris 👾 <i>aka</i> Borizilla</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Game+Developer;Creando+mundos+y+mec%C3%A1nicas+jugables;Gamer+%7C+Borizilla" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Game+Developer;Herramientas+open+source;Software+para+impresi%C3%B3n+3D;Automatizaciones+y+proyectos+experimentales;Gamer+%7C+Borizilla" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,10 +17,14 @@
 
 ## 🎮 Sobre mí
 
-- 🕹️ **Game Developer** apasionado por crear experiencias jugables.
-- 🧩 Me encanta diseñar mecánicas, prototipar ideas y pulir cada detalle del gameplay.
+Creo **videojuegos**, **herramientas open source**, **software para impresión 3D**, **automatizaciones** y **proyectos experimentales**.
+
+- 🕹️ **Game Developer**: diseño mecánicas, prototipo ideas y pulo cada detalle del gameplay.
+- 🧊 **3D**: modelado, impresión 3D y software para mejorar ese flujo de trabajo.
+- 🛠️ **Open source**: herramientas y automatizaciones que comparto con la comunidad.
 - 🦖 Gamer de corazón: también me encuentras como **Borizilla / Boris SDK**.
-- 🚀 Siempre aprendiendo y experimentando con nuevos proyectos.
+
+> 🇬🇧 *I create games, open-source tools, 3D printing software, automations, and experimental projects.*
 
 ## 📊 Estadísticas
 
@@ -31,12 +35,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=borferkic&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🏆 Trofeos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=borferkic&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=borferkic&color=00e5ff&style=flat-square" /></p>
