@@ -1,7 +1,7 @@
-<h1 align="center">Hola, soy Boris 👾 <i>aka</i> Borizilla</h1>
+<h1 align="center">Hola, soy Boris / Hi, I'm Boris 👾 <i>aka</i> Borizilla</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Game+Developer;Herramientas+open+source;Software+para+impresi%C3%B3n+3D;Automatizaciones+y+proyectos+experimentales;Gamer+%7C+Borizilla" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Game+Developer;Herramientas+open+source+%7C+Open-source+tools;Software+para+impresi%C3%B3n+3D+%7C+3D+printing+software;Automatizaciones+%7C+Automations;Gamer+%7C+Borizilla" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-## 🎮 Sobre mí
+## 🇪🇸 Sobre mí
 
 Creo **videojuegos**, **herramientas open source**, **software para impresión 3D**, **automatizaciones** y **proyectos experimentales**.
 
@@ -24,9 +24,16 @@ Creo **videojuegos**, **herramientas open source**, **software para impresión 3
 - 🛠️ **Open source**: herramientas y automatizaciones que comparto con la comunidad.
 - 🦖 Gamer de corazón: también me encuentras como **Borizilla / Boris SDK**.
 
-> 🇬🇧 *I create games, open-source tools, 3D printing software, automations, and experimental projects.*
+## 🇬🇧 About me
 
-## 📊 Estadísticas
+I create **games**, **open-source tools**, **3D printing software**, **automations**, and **experimental projects**.
+
+- 🕹️ **Game Developer**: I design mechanics, prototype ideas, and polish every detail of the gameplay.
+- 🧊 **3D**: modeling, 3D printing, and software to improve that workflow.
+- 🛠️ **Open source**: tools and automations I share with the community.
+- 🦖 Gamer at heart: you can also find me as **Borizilla / Boris SDK**.
+
+## 📊 Estadísticas / Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=borferkic&show_icons=true&theme=tokyonight&hide_border=true" />
