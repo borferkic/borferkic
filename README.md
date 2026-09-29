@@ -36,8 +36,9 @@ I create **games**, **open-source tools**, **3D printing software**, **automatio
 ## 📊 Estadísticas / Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=borferkic&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borferkic&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=borferkic&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=borferkic&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=borferkic&theme=tokyonight" />
 </p>
 
 <p align="center">
